@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+img {
+  height: 200px;
+  width: 50%;
+}
+
+p1{
+  font-family: Verdana;
+  font-size: 10px;
+}
+
+h1.blue-header{
+  font-family: Arial;
+  font-size: 100x;
+  color: blue;
+}
+body.Projects{
+  background-color: red;
+}
